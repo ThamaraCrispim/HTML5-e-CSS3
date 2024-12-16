@@ -5,11 +5,11 @@ Iniciando meus estudos de **HTML5** e **CSS3** através do **Curso em Vídeo**, 
 ---
 
 ## 📚 Progresso
-- **Módulo 1**
-- **Módulo 2**
-- **Módulo 3**
-- **Módulo 4**
-- **Módulo 5**
+- **Módulo 1**: Primeiros passos HTML5 + CSS3
+- **Módulo 2**: Deixando as coisas mais bonitas
+- **Módulo 3**: Colocando um protótipo no ar
+- **Módulo 4**: Aprofundando os conhecimentos
+- **Módulo 5**: Novas tecnologias
 
 ---
 
