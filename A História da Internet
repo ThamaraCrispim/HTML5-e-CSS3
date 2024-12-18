@@ -1,31 +1,28 @@
 # A História da Internet
 
-```markdown
-A Internet, como conhecemos atualmente, é resultado de décadas de avanços tecnológicos e esforços colaborativos em nível global. Sua concepção inicial ocorreu nos anos 1960, em meio à Guerra Fria, quando os Estados Unidos precisavam de uma rede de comunicação resiliente a possíveis ataques.
+A Internet, como conhecemos atualmente, é resultado de décadas de avanços tecnológicos e esforços colaborativos em nível global. Sua concepção inicial ocorreu nos anos 1960, em meio à Guerra Fria.
 
 ## Origem da ARPANET
 
-A ARPANET (Advanced Research Projects Agency Network) foi o precursor da Internet, desenvolvida em 1969 pela ARPA, agência do Departamento de Defesa dos Estados Unidos. Essa rede foi pioneira ao utilizar a comutação de pacotes, uma técnica que fragmenta os dados em blocos menores, transmitidos independentemente e reunidos no destino, otimizando a comunicação.
+A **ARPANET** (*Advanced Research Projects Agency Network*) foi o precursor da Internet, desenvolvida em 1969 pela **ARPA**, agência do Departamento de Defesa dos Estados Unidos.  
 
-O primeiro teste da ARPANET conectou a Universidade da Califórnia, em Los Angeles (UCLA), ao Instituto de Pesquisa de Stanford (SRI). Apesar das limitações iniciais, com poucos nós conectados, esse experimento demonstrou a viabilidade das redes interligadas.
+- O primeiro teste conectou a Universidade da Califórnia (UCLA) ao Instituto de Pesquisa de Stanford (SRI).  
+- Apesar das limitações iniciais, com poucos nós conectados, a ARPANET mostrou o potencial da comunicação em rede.
 
 ## Desenvolvimento dos Protocolos
 
-Durante a década de 1970, surgiu a necessidade de padronizar as interações entre redes. Foi então que Vinton Cerf e Robert Kahn desenvolveram o protocolo TCP/IP (Transmission Control Protocol/Internet Protocol). Este protocolo universal permitiu que redes distintas se conectassem eficientemente, criando a base da Internet moderna.
+Durante a década de 1970, surgiu a necessidade de padronizar as interações entre redes. Foi então que **Vinton Cerf** e **Robert Kahn** desenvolveram o protocolo **TCP/IP** (*Transmission Control Protocol/Internet Protocol*).  
 
-Em 1º de janeiro de 1983, a ARPANET oficializou a adoção do TCP/IP, marcando o início formal da Internet como uma rede global de redes interligadas.
+1. **1970**: Necessidade de padronização de redes.  
+2. **1º de janeiro de 1983**: A ARPANET oficializou a adoção do **TCP/IP**, marcando o início formal da Internet como uma rede global.
 
 ## A Popularização da Internet e a World Wide Web
 
-Na década de 1980, a Internet começou a se expandir para além dos setores acadêmico e militar, abrangendo universidades e centros de pesquisa em escala global. Redes locais e regionais começaram a adotar os padrões da Internet.
+Na década de 1980, a Internet começou a se expandir para além dos setores acadêmico e militar, abrangendo universidades e centros de pesquisa globais.  
 
-O verdadeiro divisor de águas ocorreu em 1991, com a criação da World Wide Web (WWW) por Tim Berners-Lee, cientista do CERN. A Web introduziu o conceito de hipertexto, possibilitando a navegação entre páginas interligadas por links e acessíveis via navegadores. Essa inovação tornou a Internet mais amigável ao público geral, transformando-a em uma ferramenta essencial.
+O verdadeiro divisor de águas ocorreu em **1991**, com a criação da **World Wide Web (WWW)** por **Tim Berners-Lee**, cientista do CERN. A Web introduziu:  
+- O conceito de **hipertexto**;  
+- A navegação por páginas interligadas.
 
 ## A Internet na Atualidade
-
-Desde então, a Internet cresceu exponencialmente, conectando bilhões de dispositivos em todo o mundo. Ela desempenha um papel vital em áreas como comunicação, educação, economia e entretenimento. Tecnologias emergentes, como computação em nuvem, Internet das Coisas (IoT) e redes móveis 5G, continuam a expandir seu impacto.
-
-No entanto, o crescimento da Internet também trouxe desafios. Questões como privacidade, cibersegurança, regulamentação e neutralidade da rede são amplamente discutidas. Apesar disso, a Internet permanece um símbolo de inovação e colaboração global.
-
-´´´
 
