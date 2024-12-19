@@ -1,0 +1,92 @@
+
+
+# 📄 Como funciona HTML e CSS  
+
+## 1️⃣ **O que são HTML e CSS?**  
+
+### 🔹 **HTML (HyperText Markup Language):**  
+- Linguagem de marcação usada para estruturar o conteúdo de uma página web.  
+- Define elementos como cabeçalhos, parágrafos, links, imagens e outros componentes.  
+
+### 🔹 **CSS (Cascading Style Sheets):**  
+- Linguagem de estilo usada para controlar a aparência visual do conteúdo HTML.  
+- Permite definir cores, fontes, espaçamentos, layouts e outros estilos.  
+
+---
+
+## 2️⃣ **Como eles funcionam juntos?**  
+- O **HTML** cria a estrutura da página, enquanto o **CSS** aplica estilos a essa estrutura.  
+
+### **Exemplo básico:**  
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Minha Página</title>
+    <link rel="stylesheet" href="estilos.css">
+  </head>
+  <body>
+    <h1>Bem-vindo!</h1>
+    <p>Essa é uma página simples com HTML e CSS.</p>
+  </body>
+</html>
+```  
+
+```css
+/* estilos.css */
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #333;
+  text-align: center;
+}
+```  
+
+---
+
+## 3️⃣ **O papel do navegador**  
+- O navegador interpreta o código HTML para exibir os elementos da página.  
+- O CSS é carregado para aplicar estilos ao conteúdo renderizado.  
+
+---
+
+## 4️⃣ **Tipos de CSS**  
+1. **Inline:** Aplicado diretamente no elemento HTML.  
+   ```html
+   <p style="color: red;">Texto em vermelho</p>
+   ```  
+
+2. **Interno:** Dentro da tag `<style>` no documento HTML.  
+   ```html
+   <style>
+     p { color: red; }
+   </style>
+   ```  
+
+3. **Externo:** Em um arquivo separado, vinculado com `<link>`. (Melhor prática).  
+
+---
+
+## 5️⃣ **Cascata e Prioridade**  
+- **Cascata:** Significa que as regras de estilo seguem uma hierarquia.  
+- A ordem de prioridade é:  
+  1. Estilo Inline.  
+  2. Estilo Interno.  
+  3. Estilo Externo.  
+  4. Estilos padrão do navegador.  
+
+---
+
+## 6️⃣ **Boa Prática: Separação de Conteúdo e Estilo**  
+- **HTML:** Foco na estrutura e semântica.  
+- **CSS:** Foco na aparência e layout.  
+
+---
+
+### 📂 **Referência:**  
+Baseado no conteúdo do PDF "[Como funciona HTML e CSS](https://github.com/gustavoguanabara/html-css/blob/master/aulas-pdf/03%20-%20Como%20funciona%20HTML%20e%20CSS.pdf)" por Gustavo Guanabara.  
+
+---
